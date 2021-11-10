@@ -1,0 +1,14 @@
+# "Early Spring"
+    .gradient {
+      color: inherit;
+      background-image: radial-gradient(ellipse at -162% 142%, hsla(78, 61%, 43%, 0.75) 53%, rgba(26, 23, 23, 0.11) 82%), radial-gradient(circle at 177% 65%, #b80000 8%, rgba(211, 232, 172, 0.53) 79%), conic-gradient(from 207deg at 50% 50%, rgb(30,144,255) -44%, #006fa0 -66%);
+      
+    }
+  
+ # "Late Summer" w/text
+    .gradient {
+      color: inherit;
+      background-image: radial-gradient(ellipse at 96% 93%, hsla(82, 100%, 22%, 0.83) 6%, hsla(81, 66%, 83%, 0.54) 100%), radial-gradient(ellipse at -15% 38%, rgba(217, 152, 192, 0.19) 19%, rgba(0, 112, 161, 0.27) 87%), repeating-linear-gradient(180deg, rgba(185, 207, 149, 0.44) 1%, hsla(196, 100%, 37%, 0.36) 56%);
+      
+    }
+  
